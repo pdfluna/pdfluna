@@ -26,8 +26,8 @@ Visit the app and start editing — no sign-up required.
 
 ## 📬 Contact
 
-- Website: [pdfluna.com](#)
-- Email: info@pdfluna.com
+- Website: [pdfluna.com](https://pdfluna.com)
+- Email: [info@pdfluna.com](mailto:info@pdfluna.com)
 
 ## 📄 License
 
